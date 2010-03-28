@@ -1,0 +1,5 @@
+local.py
+*.DS_Store
+*.py[c|o]
+pip-log.txt
+
